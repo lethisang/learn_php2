@@ -93,10 +93,10 @@ function kiemTraChuoi($chuoi, $tuCanTim)
 }
 
 // Chuỗi cần kiểm tra
-$chuoi = "Xin chào, mình là Tân.";
+$chuoi = "Xin chào, mình là Sang.";
 
 // Từ cụ thể cần tìm
-$tuCanTim = "Tân";
+$tuCanTim = "Sang";
 
 // Gọi hàm kiểm tra chuỗi
 $ketQua = kiemTraChuoi($chuoi, $tuCanTim);
